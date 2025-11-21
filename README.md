@@ -1,5 +1,3 @@
-# 💬 Chatbot Anh Lập Trình
-
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+AI chat tự động về kiến thức Bát Tự - Tứ trụ
 
 
